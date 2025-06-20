@@ -45,3 +45,56 @@
 - ✈️ Telegram: @MinMyatMinn
 
 ---
+
+
+# 👋 Hi there, I'm Min Myat Min
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Dev-MinMyatMin)
+
+---
+
+### 💼 About Me
+
+👨‍💻 Mid-Level **WordPress Developer** @ [Digital Dots Creative Agency](https://digitaldots.agency)  
+🌱 Currently mastering: `PHP`, `Flutter`, `SCSS`, `WordPress Customization`  
+🛠️ Skilled in: `Elementor`, `ACF`, `Responsive Web Design`, `Custom Themes`  
+🚀 Passionate about creating sleek, user-friendly websites and apps  
+🎯 Goal: Full-stack developer & open-source contributor  
+
+---
+
+### 🧰 Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-MinMyatMin&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-MinMyatMin&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+### 📬 Get In Touch
+
+- 📧 [Email me](mailto:dev.myatmin@gmail.com)  
+- 💬 [Telegram @MinMyatMinn](https://t.me/MinMyatMinn)  
+- 📘 [Facebook](https://www.facebook.com/share/1GDtQn7nGk/)  
+
+---
+
+⭐️ Thanks for visiting my profile!
+
